@@ -1,0 +1,8 @@
+streamlit>=1.39,<2
+streamlit-folium>=0.23,<1
+folium>=0.17,<1
+pystac-client>=0.8,<1
+planetary-computer>=1.0,<2
+rasterio>=1.4,<2
+numpy>=1.26,<3
+pandas>=2.2,<3
