@@ -33,9 +33,9 @@ The app pairs Sentinel-2 and Sentinel-1 acquisitions with the smallest date gap 
 
 ### Public data
 
-- Sentinel-2 L2A: `sentinel-2-l2a` collection. Green (B03), short-wave infrared (B11), and scene classification (SCL) assets are used.
-- Sentinel-1 RTC: `sentinel-1-rtc` collection. The VV backscatter asset is used.
-- Catalogue and signed asset access: Microsoft Planetary Computer STAC API.
+- [Sentinel-2 L2A](https://planetarycomputer.microsoft.com/dataset/sentinel-2-l2a): `sentinel-2-l2a` collection. Green (B03), short-wave infrared (B11), and scene classification (SCL) assets are used.
+- [Sentinel-1 RTC](https://planetarycomputer.microsoft.com/dataset/sentinel-1-rtc): `sentinel-1-rtc` collection. The VV backscatter asset is used.
+- Catalogue and signed asset access: [Microsoft Planetary Computer STAC API](https://planetarycomputer.microsoft.com/api/stac/v1).
 
 ### Prototype evidence rules
 
